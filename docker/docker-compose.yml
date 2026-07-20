@@ -59,7 +59,7 @@ services:
       - ../frontend:/app
       - /app/node_modules
     environment:
-      VITE_API_URL: http://localhost:8000
+      VITE_API_URL: https://research-gpt-osg5.onrender.com
 
   redis:
     image: redis:7-alpine
