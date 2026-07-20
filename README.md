@@ -154,3 +154,7 @@ docker compose -f docker/docker-compose.yml up --build
 ## Testing
 
 Backend tests live under [backend/tests](backend/tests). If you want, I can also add a short testing section with the exact commands for this repo once I confirm the test runner setup.
+
+## Live Link
+
+https://research-gpt-ashy.vercel.app/
