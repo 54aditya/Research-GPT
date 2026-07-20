@@ -123,6 +123,11 @@ npm install
 npm run dev
 ```
 
+![alt text](image-6.png)
+
+![alt text](image-3.png)
+
+![alt text](image-4.png)
 
 ## Docker
 
@@ -149,9 +154,3 @@ docker compose -f docker/docker-compose.yml up --build
 ## Testing
 
 Backend tests live under [backend/tests](backend/tests). If you want, I can also add a short testing section with the exact commands for this repo once I confirm the test runner setup.
-
-![alt text](image-6.png)
-
-![alt text](image-3.png)
-
-![alt text](image-4.png)
